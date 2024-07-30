@@ -1,34 +1,3 @@
-// Basic Array Operations
-const myArr = [2,7,"first",10,true]
-// console.log(myArr);
-
-// myArr.push(5,"pushed text")
-// console.log(myArr);
-
-// myArr.pop()
-// myArr.pop()
-// myArr.pop()
-// myArr.shift()
-// myArr.unshift(9)
-// console.log(myArr);
-// console.log(myArr.length); 
-
-// console.log(myArr.includes(9));
-// console.log(myArr.indexOf("first"));
-// console.log(typeof myArr);
-
-// const newArr = myArr.join();
-// console.log(newArr);
-// console.log(typeof newArr);
-
-// const sliceArray = myArr.slice(1,4)
-// console.log(sliceArray);
-// console.log(myArr);
-
-// const spliceArray = myArr.splice(1,4)
-// console.log(spliceArray);
-// console.log(myArr);
-
 // Day 6: Arrays
 // Tasks/Activities:
 // Activity 1: Array Creation and Access
@@ -105,8 +74,3 @@ console.log(mynum[i]);
 // • Task 13: Access and log a specific element from the two-dimensional array. 
   let matrix1 = [[1,2,3],[4,5,6],[7,8,9]];
   console.log(matrix[1][2]);
-
-
-// Advance Array Operations
-
-irshad
